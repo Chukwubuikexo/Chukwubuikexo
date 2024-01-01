@@ -60,10 +60,10 @@ Professional Experience
 <li>Collaborated seamlessly with cross-functional stakeholders to define hypotheses, design experiments, and implement tests in conjunction with the engineering team. Applied rigorous statistical analysis techniques to interpret results, providing valuable insights that shaped strategic decisions and optimized overall business performance.</li>
 </ul>
 
-<ul>
+
 **The Sparks Foundation, Data Scientist & Business Analyst**
 **(April 2021 - August 2022)**
-
+<ul>
 <li>Created dashboards and reports for educators and administrators to track key performance indicators, using Matplotlib and Seaborn. This highlighted pressure areas of company operations and allowed for strategic solutions.</li>
 
 <li>Contributed business analysis and market projection strategies that reduced marketing cost by 9% This achievement reflects my commitment to strategic decision-making that positively impacts the company's financial bottom line.</li>
@@ -74,7 +74,7 @@ Professional Experience
 
 **AirtimeFlip Technology Limited, Data Analyst
 (January 2020 - March 2022)**
-
+<ul>
 <li>Performed analysis and formulated a detailed report on company marketing data and consumer behavior with Python, Microsoft Excel, and Power Point.</li>
 
 <li>Business analysis and insights generated with Power BI helped save the company 20% in marketing cost compared to the previous year.</li>
