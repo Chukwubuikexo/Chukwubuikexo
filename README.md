@@ -48,18 +48,17 @@ Professional Experience
   
 **IMBOD, Data Analyst, (November 2022 - Present)**
 
-• Querying, sorting, aggregating, and gathering data from company database with SQL, facilitating streamlined and data-driven decision-making processes.
-• Creating interactive dashboard visualizations; analyzing, identifying insights, creating reports, monitoring KPIs with Tableau, Microsoft Power BI and Excel, which empower our clients with actionable intelligence for strategic growth.
-• Presenting data findings in reports prepared with Microsoft Power Point and Word at business board meeting. These presentations informed and influenced data-driven business decisions, contributing to the overall success and efficiency of IMBOD.
-• Customer relationship building to understand user experience and patronage, with the goal of improving drive business. This approach plays a crucial role in driving business improvements and fostering long-term customer loyalty.
-• Collaborated seamlessly with cross-functional stakeholders to define hypotheses, design experiments, and implement tests in conjunction with the engineering team. Applied rigorous statistical analysis techniques to interpret results, providing valuable insights that shaped strategic decisions and optimized overall business performance.
+<li>Querying, sorting, aggregating, and gathering data from company database with SQL, facilitating streamlined and data-driven decision-making processes.</li>
+<li>Creating interactive dashboard visualizations; analyzing, identifying insights, creating reports, monitoring KPIs with Tableau, Microsoft Power BI and Excel, which empower our clients with actionable intelligence for strategic growth.</li>
+<li>Presenting data findings in reports prepared with Microsoft Power Point and Word at business board meeting. These presentations informed and influenced data-driven business decisions, contributing to the overall success and efficiency of IMBOD.</li>
+<li>Customer relationship building to understand user experience and patronage, with the goal of improving drive business. This approach plays a crucial role in driving business improvements and fostering long-term customer loyalty.</li>
+<li>Collaborated seamlessly with cross-functional stakeholders to define hypotheses, design experiments, and implement tests in conjunction with the engineering team. Applied rigorous statistical analysis techniques to interpret results, providing valuable insights that shaped strategic decisions and optimized overall business performance.</li>
 
-**The Sparks Foundation, Data Scientist & Business Analyst
-(April 2021 - August 2022)**
+**The Sparks Foundation, Data Scientist & Business Analyst**
+**(April 2021 - August 2022)**
 
-• Created dashboards and reports for educators and administrators to track key performance indicators, using Matplotlib and Seaborn. This highlighted pressure areas of company operations and allowed for strategic solutions.
-Mbanefo Benedict Chibuike - page 2
-• Contributed business analysis and market projection strategies that reduced marketing cost by 9% This achievement reflects my commitment to strategic decision-making that positively impacts the company's financial bottom line.
+<li>Created dashboards and reports for educators and administrators to track key performance indicators, using Matplotlib and Seaborn. This highlighted pressure areas of company operations and allowed for strategic solutions.
+Contributed business analysis and market projection strategies that reduced marketing cost by 9% This achievement reflects my commitment to strategic decision-making that positively impacts the company's financial bottom line.
 • Design and conduct A/B tests to evaluate the impact of changes in study pattern using Python. This approach not only enhanced our understanding of student behavior but also paved the way for optimized study schedule and curriculum, contributing to overall improvements in user engagement and satisfaction.
 
 **AirtimeFlip Technology Limited, Data Analyst
