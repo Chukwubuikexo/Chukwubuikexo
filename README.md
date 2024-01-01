@@ -14,10 +14,17 @@ On a quest for the next best thing. Tools - Python, MySQL, Microsoft Excel, Tabl
 * ⚡  I write sometimes......
 
 ### Skills
---------------
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p
+<ul>
+  <li>Scripting Language - Python (Numnpy, Panda, Scikit-Learn)</li>
+  <li>Machine Learning - Supervised and Unsupervised Learning</li>
+  <li>Data Wrangling/Cleaning - Panda, MySQL</li>
+  <li>Data Visualization: Matplotlib, Seaborn, Tableau, PowerBI, Microsoft Excel</li>
+  <li>Data Mining: Association Rule Mining, Clustering Algorithms (k-means)</li>
+  <li>Databases: MySQL, PostgreSQL, BigQuery</li>
+  <li>Statistical Analysis: Hypothesis Testing, Regression Analysis</li> 
+</ul>
 </p>
 
 
