@@ -13,7 +13,8 @@ On a quest for the next best thing. Tools - Python, MySQL, Microsoft Excel, Tabl
 * 🤝  I'm open to collaborating on anything you need a diligent and hardworking person on
 * ⚡  I write sometimes......
 
-### Skills
+Skills
+--------------
 
 <p
 <ul>
