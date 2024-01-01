@@ -33,8 +33,40 @@ Skills
 
 <p align="left"> <a href="https://www.github.com/chukwubuikexo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/benedict-mbanefo-18b60b1b2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@chukwubuikexo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+Professional Experience
+--------------
 
-<b>My GitHub Stats</b>
+**Federal University of Technology, Owerri (FUTO), Research Assistant - Data Science
+(Mar 2023 – Present)**
 
-<a href="http://www.github.com/chukwubuikexo"><img src="https://github-readme-stats.vercel.app/api?username=chukwubuikexo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="chukwubuikexo's GitHub stats" /></a>
+<ul>
+<li>Conduct research on Knowledge Distillation in machine learning, driving innovation in building better teacher-student models. </li>
+<li>Assist in data wrangling, collection, cleaning, and preprocessing for research projects with Pandas, Numpy, Microsoft Excel. Resulted in streamlined and high-quality datasets crucial for accurate analysis</li>
+<li>Engineer and deploy predictive models to support research objectives with Python (Jupyter Notebook, Scikit-Learn), significantly contributing to achieving research objectives. The implemented models are now integral tools for ongoing investigations.</li>
+<li>Establish and operate record and file research data for future reference and assessment, ensuring a well-organized repository for future reference and assessment.</li>
+<li>Keeping abreast of the latest developments in data science research and technologies, and actively integrating such into ongoing projects</li>
+  
+**IMBOD, Data Analyst, (November 2022 - Present)**
+
+• Querying, sorting, aggregating, and gathering data from company database with SQL, facilitating streamlined and data-driven decision-making processes.
+• Creating interactive dashboard visualizations; analyzing, identifying insights, creating reports, monitoring KPIs with Tableau, Microsoft Power BI and Excel, which empower our clients with actionable intelligence for strategic growth.
+• Presenting data findings in reports prepared with Microsoft Power Point and Word at business board meeting. These presentations informed and influenced data-driven business decisions, contributing to the overall success and efficiency of IMBOD.
+• Customer relationship building to understand user experience and patronage, with the goal of improving drive business. This approach plays a crucial role in driving business improvements and fostering long-term customer loyalty.
+• Collaborated seamlessly with cross-functional stakeholders to define hypotheses, design experiments, and implement tests in conjunction with the engineering team. Applied rigorous statistical analysis techniques to interpret results, providing valuable insights that shaped strategic decisions and optimized overall business performance.
+
+**The Sparks Foundation, Data Scientist & Business Analyst
+(April 2021 - August 2022)**
+
+• Created dashboards and reports for educators and administrators to track key performance indicators, using Matplotlib and Seaborn. This highlighted pressure areas of company operations and allowed for strategic solutions.
+Mbanefo Benedict Chibuike - page 2
+• Contributed business analysis and market projection strategies that reduced marketing cost by 9% This achievement reflects my commitment to strategic decision-making that positively impacts the company's financial bottom line.
+• Design and conduct A/B tests to evaluate the impact of changes in study pattern using Python. This approach not only enhanced our understanding of student behavior but also paved the way for optimized study schedule and curriculum, contributing to overall improvements in user engagement and satisfaction.
+
+**AirtimeFlip Technology Limited, Data Analyst
+(January 2020 - March 2022)**
+
+<li>Performed analysis and formulated a detailed report on company marketing data and consumer behavior with Python, Microsoft Excel, and Power Point.</li>
+<li>Business analysis and insights generated with Power BI helped save the company 20% in marketing cost compared to the previous year.</li>
+<li>Further analyzed, and interpreted quarterly company business data, to highlight trends and proffer new strategies with the use of Tableau and Microsoft Excel.</li>
+</ul>
+
