@@ -71,9 +71,9 @@ Professional Experience
 </ul>
 
 
+**AirtimeFlip Technology Limited, Data Analyst**
+**(January 2020 - March 2022)**
 
-**AirtimeFlip Technology Limited, Data Analyst
-(January 2020 - March 2022)**
 <ul>
 <li>Performed analysis and formulated a detailed report on company marketing data and consumer behavior with Python, Microsoft Excel, and Power Point.</li>
 
@@ -82,3 +82,9 @@ Professional Experience
 <li>Further analyzed, and interpreted quarterly company business data, to highlight trends and proffer new strategies with the use of Tableau and Microsoft Excel.</li>
 </ul>
 
+Education
+--------------
+<ul><li>
+  Bachelor of Technology in Computer Science, Federal University of Technology, Owerri. 
+  (September 2017 - June 2022)
+</li></ul>
