@@ -88,3 +88,9 @@ Education
   Bachelor of Technology in Computer Science, Federal University of Technology, Owerri. 
   (September 2017 - June 2022)
 </li></ul>
+
+Contact
+--------------
+<ul><li>
+  LinkedIn: [Mbanefo Benedict Chibuike](https://www.linkedin.com/in/benedict-mbanefo-18b60b1b2/)
+</li></ul>
