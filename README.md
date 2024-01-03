@@ -92,5 +92,5 @@ Education
 Contact
 --------------
 <ul><li>
-  *LinkedIn: [Mbanefo Benedict Chibuike](https://www.linkedin.com/in/benedict-mbanefo-18b60b1b2/)
+  LinkedIn: <a href = "https://www.linkedin.com/in/benedict-mbanefo-18b60b1b2/"> Mbanefo Benedict Chibuike <a/>
 </li></ul>
