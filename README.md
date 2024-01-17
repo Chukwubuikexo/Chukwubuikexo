@@ -24,8 +24,7 @@ Skills
   <li>Data Wrangling/Cleaning - Panda, MySQL</li>
   <li>Data Visualization: Matplotlib, Seaborn, Tableau, PowerBI, Microsoft Excel</li>
   <li>Data Mining: Association Rule Mining, Clustering Algorithms (k-means)</li>
-  <li>Databases: MySQL, PostgreSQL, BigQuery</li>
-  <li>Statistical Analysis: Hypothesis Testing, Regression Analysis</li> 
+  <li>Databases: MySQL, PostgreSQL, BigQuery</li> 
 </ul>
 </p>
 
