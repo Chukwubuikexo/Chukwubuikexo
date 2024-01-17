@@ -11,6 +11,7 @@ On a quest for the next best thing. Tools - Python, MySQL, Microsoft Excel, Tabl
 * ✉️  You can contact me at [mabnefo.m19@gmail.com](mailto:mabnefo.m19@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on anything you need a diligent and hardworking person on
+* 🖥️  Currently learning Cloud Engineering, and preparing for my Google Cloud Practicioner Certification Exams
 * ⚡  I write sometimes......
 
 Skills
