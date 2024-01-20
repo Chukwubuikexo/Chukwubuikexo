@@ -35,15 +35,13 @@ Skills
 Professional Experience
 --------------  
 
-**IMBOD, Data Analyst, (November 2022 - Present)**
+**IMBOD, Data Analyst 
+(November 2022 - Present)**
 
 <ul>
 <li>Querying, sorting, aggregating, and gathering data from company database with SQL, facilitating streamlined and data-driven decision-making processes.</li>
-
 <li>Creating interactive dashboard visualizations and reports; analyzing, identifying insights, creating reports, monitoring KPIs with Tableau, Microsoft Power BI and Excel, which empower our clients with actionable intelligence for strategic growth.</li>
-
 <li>Collaborated seamlessly with cross-functional stakeholders to define hypotheses, design experiments, and implement tests in conjunction with the engineering team. Applied rigorous statistical analysis techniques to interpret results, providing valuable insights that shaped strategic decisions and optimized overall business performance.</li>
-</ul>
 </ul>
 
 **Federal University of Technology, Owerri (FUTO), Research Assistant - Data Science
