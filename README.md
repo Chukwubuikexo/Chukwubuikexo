@@ -33,18 +33,7 @@ Skills
 <p align="left"> <a href="https://www.github.com/chukwubuikexo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/benedict-mbanefo-18b60b1b2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@chukwubuikexo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
 Professional Experience
---------------
-
-**Federal University of Technology, Owerri (FUTO), Research Assistant - Data Science
-(Mar 2023 – Present)**
-
-<ul>
-<li>Conduct research on Knowledge Distillation in machine learning, driving innovation in building better teacher-student models. </li>
-<li>Assist in data wrangling, collection, cleaning, and preprocessing for research projects with Pandas, Numpy, Microsoft Excel. Resulted in streamlined and high-quality datasets crucial for accurate analysis</li>
-<li>Engineer and deploy predictive models to support research objectives with Python (Jupyter Notebook, Scikit-Learn), significantly contributing to achieving research objectives. The implemented models are now integral tools for ongoing investigations.</li>
-<li>Establish and operate record and file research data for future reference and assessment, ensuring a well-organized repository for future reference and assessment.</li>
-<li>Keeping abreast of the latest developments in data science research and technologies, and actively integrating such into ongoing projects</li></ul>
-  
+--------------  
 
 **IMBOD, Data Analyst, (November 2022 - Present)**
 
@@ -56,6 +45,16 @@ Professional Experience
 <li>Collaborated seamlessly with cross-functional stakeholders to define hypotheses, design experiments, and implement tests in conjunction with the engineering team. Applied rigorous statistical analysis techniques to interpret results, providing valuable insights that shaped strategic decisions and optimized overall business performance.</li>
 </ul>
 </ul>
+
+**Federal University of Technology, Owerri (FUTO), Research Assistant - Data Science
+(Mar 2023 – Nov 2023)**
+
+<ul>
+<li>Conduct research on Knowledge Distillation in machine learning, driving innovation in building better teacher-student models. </li>
+<li>Assist in data wrangling, collection, cleaning, and preprocessing for research projects with Pandas, Numpy, Microsoft Excel. Resulted in streamlined and high-quality datasets crucial for accurate analysis</li>
+<li>Engineer and deploy predictive models to support research objectives with Python (Jupyter Notebook, Scikit-Learn), significantly contributing to achieving research objectives. The implemented models are now integral tools for ongoing investigations.</li>
+<li>Establish and operate record and file research data for future reference and assessment, ensuring a well-organized repository for future reference and assessment.</li>
+<li>Keeping abreast of the latest developments in data science research and technologies, and actively integrating such into ongoing projects</li></ul>
 
 
 **The Sparks Foundation, Data Scientist & Business Analyst**
