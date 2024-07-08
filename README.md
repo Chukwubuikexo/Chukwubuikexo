@@ -58,7 +58,7 @@ Professional Experience
 <li>Updating and maintaining robust automation scripts using Bash; managing documentation for cloud infrastructure, deployment processes, and troubleshooting guides.</li>
 </ul>
 
-    **Data Analytics Engineer**
+  **Data Analytics Engineer**
 <ul>
 <li>Facilitating data-driven decision-making process by querying, sorting, cleaning, and aggregating data with SQL, to ensure at least 85% operational efficiency.</li>
 <li>Creating and maintaining interactive dashboard visualizations and documenting insights, with Tableau, Microsoft Power BI, and Excel, with a target of at least 100% client satisfaction.</li>
@@ -97,11 +97,11 @@ Education
 Certifcation
 --------------
 <ul>
-<li> Google Cloud Certified Professional Cloud Security Engineer : <a href = "https://www.credly.com/badges/96e808b6-1fc4-44d3-ae4d-4240cbcbb74e/public_url">
+<li> <a href = "https://www.credly.com/badges/96e808b6-1fc4-44d3-ae4d-4240cbcbb74e/public_url"> Google Cloud Certified Professional Cloud Security Engineer</a>
 </li>
-<li>Google Cloud Certified Associate Cloud Engineer : <a href = "https://www.credly.com/badges/0605adc0-e771-4161-86a5-3eb035dfee8e/public_url">
+<li> <a href = "https://www.credly.com/badges/0605adc0-e771-4161-86a5-3eb035dfee8e/public_url"> Google Cloud Certified Associate Cloud Engineer <a/>
 </li>
-<li>Google Data Analytics Professional Certificate : <a href = "https://www.credly.com/badges/7cc2f33a-b8f0-4baf-8cab-77f71e31e1e6"> 
+<li> <a href = "https://www.credly.com/badges/7cc2f33a-b8f0-4baf-8cab-77f71e31e1e6">  Google Data Analytics Professional Certificate <a/>
 </li>
 </ul>
 
