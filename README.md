@@ -58,7 +58,7 @@ Professional Experience
 <li>Updating and maintaining robust automation scripts using Bash; managing documentation for cloud infrastructure, deployment processes, and troubleshooting guides.</li>
 </ul>
 
-**Data Analytics Engineer**
+    **Data Analytics Engineer**
 <ul>
 <li>Facilitating data-driven decision-making process by querying, sorting, cleaning, and aggregating data with SQL, to ensure at least 85% operational efficiency.</li>
 <li>Creating and maintaining interactive dashboard visualizations and documenting insights, with Tableau, Microsoft Power BI, and Excel, with a target of at least 100% client satisfaction.</li>
