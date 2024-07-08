@@ -9,7 +9,7 @@ On a quest for the next best thing. Tools - Python, MySQL, Microsoft Excel, Tabl
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Github](http://github.com/Chukwubuikexo)
 * ✉️  You can contact me at [mabnefo.m19@gmail.com](mailto:mabnefo.m19@gmail.com)
-* 🧠  I'm learning Cloud Devops Engineering, and preparing for my Google Cloud Practicioner Certification Exams
+* 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on anything you need a diligent and hardworking person on
 * ⚡  I write sometimes......
 
