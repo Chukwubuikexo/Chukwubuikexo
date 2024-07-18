@@ -1,7 +1,7 @@
 Hi 👋 My name is Mbanefo Benedict
 =================================
 
-Data Analytics
+Data Analytics | Devops
 --------------
 
 On a quest for the next best thing. Tools - Python, MySQL, Microsoft Excel, Tableau, Power BI.
