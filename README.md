@@ -6,7 +6,7 @@ Data Analytics | Devops
 
 On a quest for the next best thing. Tools - Python, Docker, Terraform, GCP, Git, Linux, MySQL, Microsoft Excel, Tableau, Power BI.
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  Remote
 * 🖥️  See my portfolio at [Github](http://github.com/Chukwubuikexo)
 * ✉️  You can contact me at [benedictxo@outlook.com](mailto:benedictxo@outlook.com)
 * 🧠  I'm curently building LLMs and learning Kubernetes
