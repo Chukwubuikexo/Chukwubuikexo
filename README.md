@@ -19,11 +19,11 @@ Skills
 <p
 <ul>
   <li>Cloud Platforms - Google Cloud Platform (GCP)</li>
-  <li>Scripting Language - Python (Numnpy, Panda, Scikit-Learn)</li>
+  <li>Scripting Language - Python (Numpy, Pandas, Scikit-Learn)</li>
   <li>Infrastructure as Code - Terraform, Ansible</li>
   <li>Containerization - Docker, Kubernetes</li>
   <li>Monitoring/Logging- Prometheus, ELK stack</li>
-  <li>CI/CD Tools - Jenkins/GitLab </li>
+  <li>CI/CD Tools - GitLab </li>
   <li>Data Analysis - Excel, Tableau, Power BI, Google Sheets</li>
   <li>Machine Learning - Supervised and Unsupervised Learning</li>
   <li>Data Visualization: Matplotlib, Seaborn, Tableau, PowerBI, Microsoft Excel</li>
