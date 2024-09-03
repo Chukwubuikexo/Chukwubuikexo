@@ -74,7 +74,7 @@ Professional Experience
 </ul>
 
 
-**AirtimeFlip Technology Limited, Data Analyst**
+**AirtimeFlip Technology Limited, Business Analyst**
 **(January 2020 - March 2022)**
 
 <ul>
