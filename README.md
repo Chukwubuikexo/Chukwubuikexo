@@ -4,14 +4,16 @@ Hi 👋 My name is Mbanefo Benedict
 Data Analytics | Devops
 --------------
 
-On a quest for the next best thing. Tools - Python, Docker, Terraform, GCP, Git, Linux, MySQL, Microsoft Excel, Tableau, Power BI.
+On a quest for the next best thing. 
+
 
 * 🌍  Remote
+* Tools - Python, Docker, Terraform, GCP, Git, Linux, MySQL, Microsoft Excel, Tableau, Power BI.
 * 🖥️  See my portfolio at [Github](http://github.com/Chukwubuikexo)
 * ✉️  You can contact me at [benedictxo@outlook.com](mailto:benedictxo@outlook.com)
 * 🧠  I'm curently building LLMs and learning Kubernetes
 * 🤝  I'm open to collaborating on anything you need a diligent and hardworking person on
-* ⚡  I write about my projects here <a href= "https://medium.com/@chukwubuikexo/" a>
+* ⚡  I write about my projects [medium](https://medium.com/@chukwubuikexo)
 
 Skills
 --------------
