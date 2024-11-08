@@ -11,14 +11,14 @@ On a quest for the next best thing. Tools - Python, Docker, Terraform, GCP, Git,
 * ✉️  You can contact me at [benedictxo@outlook.com](mailto:benedictxo@outlook.com)
 * 🧠  I'm curently building LLMs and learning Kubernetes
 * 🤝  I'm open to collaborating on anything you need a diligent and hardworking person on
-* ⚡  I write sometimes......
+* ⚡  I write about my projects here <a href= "https://medium.com/@chukwubuikexo/" a>
 
 Skills
 --------------
 
 <p
 <ul>
-  <li>Cloud Platforms - Google Cloud Platform (GCP)</li>
+  <li>Cloud Platforms - Google Cloud Platform (GCP). Amazon Web Service (AWS)</li>
   <li>Scripting Language - Python (Numpy, Pandas, Scikit-Learn)</li>
   <li>Infrastructure as Code - Terraform, Ansible</li>
   <li>Containerization - Docker, Kubernetes</li>
