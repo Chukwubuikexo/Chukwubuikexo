@@ -8,12 +8,12 @@ On a quest for the next best thing.
 
 
 * 🌍  Remote
-* Tools - Python, Docker, Terraform, GCP, Git, Linux, MySQL, Microsoft Excel, Tableau, Power BI.
+* 🛠️  Tools - Python, Docker, Kubernetes, AWS, GCP, Git, Linux, MySQL, Microsoft Excel, Tableau, Power BI.
 * 🖥️  See my portfolio at [Github](http://github.com/Chukwubuikexo)
 * ✉️  You can contact me at [benedictxo@outlook.com](mailto:benedictxo@outlook.com)
 * 🧠  I'm curently building LLMs and learning Kubernetes
 * 🤝  I'm open to collaborating on anything you need a diligent and hardworking person on
-* ⚡  I write about my projects [medium](https://medium.com/@chukwubuikexo)
+* ⚡  I write about my projects on [medium](https://medium.com/@chukwubuikexo)
 
 Skills
 --------------
