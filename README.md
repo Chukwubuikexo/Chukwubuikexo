@@ -42,16 +42,7 @@ Skills
 Professional Experience
 --------------  
 
-**FundusAI, Machine Learning Engineer 
-(January 2024 - Present)**
-
-<ul>
-<li>Building AI chat bot with LangChain and LLMs to reduce customer service response time by at least 80%. Deploying with FastAPI and constructing user interface with chainlit.</li>
-<li>Engineering LangChain Agent for appointment scheduling and embedding it as a feature to the AI chatbot. To enable seamless communication with healthcare professionals and reduce scheduling errors by at least 80%.</li>
-</ul>
-
-
-**Imbod, Data Analytics/Devops Engineer 
+**Imbod, Devops Engineer and Facilitator 
 (November 2022 - Present)**
 
 <ul>
@@ -63,6 +54,14 @@ Professional Experience
 <li>Presenting data findings in reports prepared with Microsoft Power Point and Word at business board meeting. These presentations efficiently communicate business insights to stakeholders and influence business decisions, ensuring the profits stayed above the 65% benchmark.</li>
 <li>Utilizing HubSpot for lead tracking, customer segmentation, and marketing performance analysis, optimizing marketing campaigns and improving customer engagement and retention by 5% quarterly.</li>
 <li> Applying predictive modeling techniques, and machine learning algorithm techniques to extract meaningful insights interpret from large, diverse, and datasets, enhancing business intelligence and forecasting capabilities.</li>
+</ul>
+
+**FundusAI, Machine Learning Engineer 
+(January 2024 - February, 2025)**
+
+<ul>
+<li>Building AI chat bot with LangChain and LLMs to reduce customer service response time by at least 80%. Deploying with FastAPI and constructing user interface with chainlit.</li>
+<li>Engineering LangChain Agent for appointment scheduling and embedding it as a feature to the AI chatbot. To enable seamless communication with healthcare professionals and reduce scheduling errors by at least 80%.</li>
 </ul>
 
 
