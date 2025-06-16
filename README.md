@@ -49,7 +49,7 @@ Professional Experience
 <li>Monitor and maintain infrastructure containerized applications using Docker and Kubernetes, ensuring efficient deployment, scaling, and operation of application containers.</li>
 <li>Maintained CI/CD pipelines for e-commerce web application using GitHub, Container Registry, Cloud Run, and Cloud Build, reducing deployment errors, and improving efficiency.</li>
 <li>Updating and maintaining robust automation scripts using Bash; managing documentation for cloud infrastructure, deployment processes, and troubleshooting guides.</li>
-<<li>Facilitating data-driven decision-making process by querying, sorting, cleaning, and aggregating data with SQL, to ensure at least 85% operational efficiency.</li>
+<li>Facilitating data-driven decision-making process by querying, sorting, cleaning, and aggregating data with SQL, to ensure at least 85% operational efficiency.</li>
 <li>Creating and maintaining interactive dashboard visualizations and documenting insights, with Tableau, Microsoft Power BI, and Excel, with a target of at least 100% client satisfaction.</li>
 <li>Presenting data findings in reports prepared with Microsoft Power Point and Word at business board meeting. These presentations efficiently communicate business insights to stakeholders and influence business decisions, ensuring the profits stayed above the 65% benchmark.</li>
 <li>Utilizing HubSpot for lead tracking, customer segmentation, and marketing performance analysis, optimizing marketing campaigns and improving customer engagement and retention by 5% quarterly.</li>
