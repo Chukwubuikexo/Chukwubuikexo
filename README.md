@@ -1,7 +1,7 @@
 Hi 👋 My name is Mbanefo Benedict
 =================================
 
-Data Analytics | Devops
+AI/ML | Cloud Devops Engineering
 --------------
 
 On a quest for the next best thing. 
