@@ -1,7 +1,7 @@
 Hi 👋 My name is Mbanefo Benedict
 =================================
 
-AI/ML | Cloud Devops Engineering
+AI/ML | Cloud | Devops 
 --------------
 
 On a quest for the next best thing. 
